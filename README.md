@@ -10,3 +10,7 @@ If found, it prints the marks for that student.
 If not found, it prints a message saying the student is not in the records.
 
 task2
+creates a list of integers from 1 to 10 using the range() function and converts it to a list.
+slices the list to extract the first five elements (index 0 to 4).
+uses slicing with a step of -1 to reverse the first_five list
+Prints the original list, the first five elements, and the reversed version of those five.
